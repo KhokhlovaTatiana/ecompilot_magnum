@@ -9,6 +9,15 @@
     "source": "Алгоритм покупки/ERW_0710_1500_Р_Ардалионов.pdf"
   },
   {
+    "id": "audience-portrait",
+    "title": "Портрет аудитории",
+    "description": "Кто покупает Магнат на Ozon: история отзывов, товарные интересы и барьеры доставки.",
+    "path": "/audience-portrait",
+    "icon": "audience",
+    "status": "ready",
+    "source": "Портрет аудитории/reviews_magnat_202606182208.csv"
+  },
+  {
     "id": "sku-budget",
     "title": "SKU-бюджет",
     "description": "Рекомендации по performance-бюджету для SKU Магнат на Ozon.",
