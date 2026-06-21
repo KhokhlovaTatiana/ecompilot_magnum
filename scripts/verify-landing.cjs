@@ -9,7 +9,13 @@ const distDir = path.join(root, "dist");
 const outDir = path.join(root, "tmp", "verify-screenshots");
 fs.mkdirSync(outDir, { recursive: true });
 
-const paths = ["/", "/algorithm", "/sku-budget", "/demand-elasticity"];
+const paths = [
+  "/",
+  "/algorithm",
+  "/audience-portrait",
+  "/sku-budget",
+  "/demand-elasticity",
+];
 const viewports = [
   { name: "mobile", width: 390, height: 844 },
   { name: "desktop", width: 1440, height: 1000 },
